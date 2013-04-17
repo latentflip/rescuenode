@@ -1,0 +1,16 @@
+{
+  "name": "rescuenode",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "baconjs": "~0.3.10",
+    "NodObjC": "0.0.15"
+  }
+}
